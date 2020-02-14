@@ -1,0 +1,25 @@
+
+paper/
+
+# pycharm
+.idea/
+
+# windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python:
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
+
+# juyter notebook
+.ipynb_checkpoints/
+
+#vim
+*.swp
+*.un~
